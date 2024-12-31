@@ -36,7 +36,7 @@
     "chalk": "^4.1.2",
     "chokidar": "^3.5.3",
     "fs-extra": "^10.0.1",
-    "globby": "^11.0.3"
+    "globby": "^14.0.2"
   },
   "peerDependencies": {
     "esbuild": ">= 0.14.0"
